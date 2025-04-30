@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TechKrypt
-- 👀 I’m interested in frontend developmengt.
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 You can reach me via twitter using the link below: https://mobile.twitter.com/MenyuahObiora
+- 👀 I’m interested in Linux, Networking, DevOps, Scripting & WordPress Web Development
+- 📫 You can reach me via mail >> hellovictor300@gmail.com
 
 <!---
 TechKrypt/TechKrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
